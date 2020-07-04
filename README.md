@@ -5,16 +5,26 @@
 ##环境：`Python3`
 
 ## 目录结构说明
+
+
+
+
 │  app.py				----- flask框架 文件
+
 │  movie.db				----- 数据库
+
 │  README.md
+
 │  requirements.txt		----- 依赖包环境版本
+
 │  spider.py			----- 爬取数据 文件
+
 │  testCloud.py			----- 词云生成 文件
-│
-├─.idea
+
 ├─static				----- 静态页面
+
 ├─templates				----- HTML页面
+
 └─venv					----- 虚拟环境
 
 ## 项目展示：[http://121.36.81.197:5000/](http://121.36.81.197:5000/)
