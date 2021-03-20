@@ -10,7 +10,7 @@ idna==2.10
 itsdangerous==1.1.0
 jdcal==1.4.1
 jieba==0.42.1
-Jinja2==2.11.2
+Jinja2==2.11.3
 kiwisolver==1.2.0
 MarkupSafe==1.1.1
 matplotlib==3.2.2
