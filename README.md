@@ -27,7 +27,6 @@
 
 └─venv					----- 虚拟环境
 
-## 项目展示：[http://121.36.81.197:5000/](http://121.36.81.197:5000/)
 
 ## 项目笔记：[https://blog.csdn.net/lizhengze1117/article/details/107128321](https://blog.csdn.net/lizhengze1117/article/details/107128321)
 
