@@ -28,7 +28,7 @@
 └─venv					----- 虚拟环境
 
 
-## 项目笔记：[https://blog.csdn.net/lizhengze1117/article/details/107128321](https://blog.csdn.net/lizhengze1117/article/details/107128321)
+## 项目笔记：([https://blog.csdn.net/lizhengze1117/article/details/107128321](https://blog.csdn.net/lizhengze1117/article/details/107128321))
 
 ## 页面展示
 ![index](./static/assets/img/page/index.png)
